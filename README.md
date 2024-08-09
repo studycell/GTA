@@ -4,6 +4,8 @@
 <h2 class="papername"> <img src="./assets/gta_logo.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> GTA: A Graph-Text Alignment Framework for Optimizing Node Representations and Enhancing LLM Integration </h2>
 
 <br>
+<br>
+<br>
 
 <img src='assets/GTA-Introduction.jpg' width='90%'>
 
